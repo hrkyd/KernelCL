@@ -1,5 +1,6 @@
 # Towards Understanding the Mechanism of Contrastive Learning via Similarity Structure: A Theoretical Analysis
 This repository includes the supplementary materials of the paper "Towards Understanding the Mechanism of Contrastive Learning via Similarity Structure: A Theoretical Analysis" accepted to ECML PKDD 2023.
+
 The final version of the conference paper will be available soon.
 
 ## Supplementary material
