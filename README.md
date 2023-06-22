@@ -4,7 +4,7 @@ This repository includes the supplementary materials of the paper "Towards Under
 The final version of the conference paper will be available soon.
 
 ## Supplementary material
-The folder `supplementary material` includes the supplementary document (Appendix).
+The folder `supplementary_material` includes the supplementary document (Appendix).
 
 ## Code
 The folder `code` contains an implementation code of KCL.
