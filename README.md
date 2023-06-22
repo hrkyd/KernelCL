@@ -13,9 +13,9 @@ The folder `code` contains an implementation code of KCL.
 ## Citation
 If any content in this repository is helpful for your research, please cite the paper below:
 ```
-@inproceedings{waida2023towards
+@inproceedings{waida2023towards,
 title = {Towards Understanding the Mechanism of Contrastive Learning via Similarity Structure: A Theoretical Analysis},
-author = {Hiroki Waida and Yuichiro Wada and Léo Andéol and Takumi Nakagawa and Yuhui Zhang and Takafumi Kanamori},
+author = {Hiroki Waida and Yuichiro Wada and L{\'e}o And{\'e}ol and Takumi Nakagawa and Yuhui Zhang and Takafumi Kanamori},
 booktitle = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
 year = {2023}
 }
